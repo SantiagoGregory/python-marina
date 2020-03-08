@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ $(python problem1.py) == $"abc" ]
+if [ $(python solution1.py) = "abc" ]
 then
     echo 1
 else
